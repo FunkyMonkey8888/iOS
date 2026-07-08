@@ -6,7 +6,7 @@ Welcome to my iOS development repository. This repository contains personal proj
 
 # 👨‍💻 Developer
 
-**Survi Sreevarshith Baba Goud**
+**Varshith Survi**
 
 Passionate iOS Developer focused on building modern, scalable, and user-friendly mobile applications using Apple's latest technologies.
 
